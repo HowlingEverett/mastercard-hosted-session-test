@@ -1,5 +1,7 @@
 # Hosted Session Init Issue Test Case
 
+![Issue reproduction demo](https://raw.githubusercontent.com/HowlingEverett/mastercard-hosted-session-test/master/sessionjs.gif)
+
 This test case is to reproduce the issue I'm seeing with Mastercard's Hosted Session
 library. The exact issue I'm seeing is that, although the script initialises on the
 card number and security code fields, it fails to initialise on either of the expiry
